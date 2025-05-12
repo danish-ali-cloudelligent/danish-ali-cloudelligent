@@ -5,7 +5,7 @@ I'm **Danish Ali**, a passionate Full-Stack Developer 👨‍💻 from [Cloudell
 - 🔭 I’m currently working on building scalable and efficient web applications.
 - 👯 I’m looking to collaborate on exciting web development and cloud-based projects.
 - 🤔 I’m looking for help with scaling applications and learning best practices in DevOps.
-- 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, or anything related to web development!
+- 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **AWS Amplify** or anything related to web development!
 - 📫 How to reach me: [danish.ali@cloudelligent.com](mailto:danish.ali@cloudelligent.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to solve coding challenges and enjoy playing video games in my spare time.
